@@ -1,0 +1,1110 @@
+﻿Log file open, 05/05/23 10:57:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogCore: Display: UnrealTraceServer: Unable to launch the trace store with '"../../../Engine//Binaries/Win64/UnrealTraceServer.exe" fork' (00000002)
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" Playground""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2846] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 5800X 8-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="f62e6a8b496c3baf90235293764e1828"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogIoDispatcher: Display: Reading toc: ../../../Playground/Content/Paks/global.utoc
+LogIoDispatcher: Display: Toc signature hash: 0000000000000000000000000000000000000000
+LogIoDispatcher: Display: Mounting container '../../../Playground/Content/Paks/global.utoc' in location slot 0
+LogPakFile: Display: Initialized I/O dispatcher file backend. Mounted the global container: ../../../Playground/Content/Paks/global.utoc
+LogPakFile: Display: Found Pak file ../../../Playground/Content/Paks/Playground-Windows.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../Playground/Content/Paks/Playground-Windows.pak.
+LogIoDispatcher: Display: Reading toc: ../../../Playground/Content/Paks/Playground-Windows.utoc
+LogIoDispatcher: Display: Toc signature hash: 0000000000000000000000000000000000000000
+LogIoDispatcher: Display: Mounting container '../../../Playground/Content/Paks/Playground-Windows.utoc' in location slot 0
+LogPakFile: Display: Mounted IoStore container "../../../Playground/Content/Paks/Playground-Windows.utoc"
+LogPakFile: Display: Mounted Pak file '../../../Playground/Content/Paks/Playground-Windows.pak', mount point: '../../../'
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.063160
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-0B7C398C4363380CD04F44B76B530F36
+         Session CrashGUID >====================================================
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin Landmass
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin Water
+LogPluginManager: Mounting Engine plugin CascadeToNiagaraConverter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin NiagaraUIRenderer
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin DataRegistry
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GameplayAbilities
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin AutomationDriverTests
+LogPluginManager: Mounting Engine plugin EditorTests
+LogPluginManager: Mounting Engine plugin FbxAutomationTestBuilder
+LogPluginManager: Mounting Engine plugin FunctionalTestingEditor
+LogPluginManager: Mounting Engine plugin RuntimeTests
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/Water/Content/' mounted to '/Water/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/FX/CascadeToNiagaraConverter/Content/' mounted to '/CascadeToNiagaraConverter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Marketplace/NiagaraUIRenderer/Content/' mounted to '/NiagaraUIRenderer/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Tests/AutomationDriverTests/Content/' mounted to '/AutomationDriverTests/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Tests/EditorTests/Content/' mounted to '/EditorTests/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Tests/RuntimeTests/Content/' mounted to '/RuntimeTests/'
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2846] (), CPU: AMD Ryzen 7 5800X 8-Core Processor             , GPU: AMD Radeon RX 7900 XTX
+LogInit: Compiled (64-bit): Jul  7 2022 02:24:55
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: I:/Unreal/UE_5.0/Windows/Playground/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 36
+LogDevObjectVersion:   Dev-ControlRig (A7820CFB-20A7-4359-8C54-2C149623CF50): 13
+LogDevObjectVersion:   Dev-IKRig (F6DFBB78-BB50-A0E4-4018-B84D60CBAF23): 0
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: AsyncLoading2 - Created: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+LogStreaming: Display: AsyncLoading2 - Initialized
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.05.05-17.57.30:920][  0]LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+[2023.05.05-17.57.30:920][  0]LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+[2023.05.05-17.57.30:920][  0]LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+[2023.05.05-17.57.30:920][  0]LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+[2023.05.05-17.57.30:920][  0]LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+[2023.05.05-17.57.30:920][  0]LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.05.05-17.57.30:920][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.05.05-17.57.30:920][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.05.05-17.57.30:920][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.05.05-17.57.30:920][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.05.05-17.57.30:920][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.05.05-17.57.30:920][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.05.05-17.57.30:920][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.05.05-17.57.30:920][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.05.05-17.57.30:921][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.05.05-17.57.30:921][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.05.05-17.57.30:921][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.05.05-17.57.30:921][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.05.05-17.57.30:921][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.05.05-17.57.30:921][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.05.05-17.57.30:927][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.05.05-17.57.30:927][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.05.05-17.57.30:927][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.05.05-17.57.30:927][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.05.05-17.57.30:927][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.05.05-17.57.30:927][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.05.05-17.57.30:927][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.05.05-17.57.30:927][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.05.05-17.57.30:927][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.05.05-17.57.30:927][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.05.05-17.57.30:927][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.05.05-17.57.30:957][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.05.05-17.57.30:959][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.05.05-17.57.30:959][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2023.05.05-17.57.30:959][  0]LogD3D11RHI: D3D11 adapters:
+[2023.05.05-17.57.30:959][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2023.05.05-17.57.30:959][  0]LogD3D11RHI:     Description : AMD Radeon RX 7900 XTX
+[2023.05.05-17.57.30:959][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.05.05-17.57.30:959][  0]LogD3D11RHI:     DeviceId    : 744c
+[2023.05.05-17.57.30:959][  0]LogD3D11RHI:     SubSysId    : 2422148c
+[2023.05.05-17.57.30:959][  0]LogD3D11RHI:     Revision    : 00c8
+[2023.05.05-17.57.30:959][  0]LogD3D11RHI:     DedicatedVideoMemory : 25710813184 bytes
+[2023.05.05-17.57.30:959][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.05-17.57.30:959][  0]LogD3D11RHI:     SharedSystemMemory : 17135298560 bytes
+[2023.05.05-17.57.30:959][  0]LogD3D11RHI:     AdapterLuid : 0 72056
+[2023.05.05-17.57.31:008][  0]LogD3D11RHI:    0. 'AMD Radeon RX 7900 XTX' (Feature Level 11_1)
+[2023.05.05-17.57.31:008][  0]LogD3D11RHI:       24519/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2023.05.05-17.57.31:008][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2023.05.05-17.57.31:008][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2023.05.05-17.57.31:008][  0]LogD3D11RHI:     VendorId    : 1414
+[2023.05.05-17.57.31:008][  0]LogD3D11RHI:     DeviceId    : 008c
+[2023.05.05-17.57.31:008][  0]LogD3D11RHI:     SubSysId    : 0000
+[2023.05.05-17.57.31:008][  0]LogD3D11RHI:     Revision    : 0000
+[2023.05.05-17.57.31:008][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2023.05.05-17.57.31:008][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.05-17.57.31:008][  0]LogD3D11RHI:     SharedSystemMemory : 17135298560 bytes
+[2023.05.05-17.57.31:008][  0]LogD3D11RHI:     AdapterLuid : 0 76094
+[2023.05.05-17.57.31:009][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2023.05.05-17.57.31:010][  0]LogD3D11RHI:       0/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.05.05-17.57.31:010][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.05.05-17.57.31:010][  0]LogD3D11RHI:     Description : AMD Radeon RX 7900 XTX
+[2023.05.05-17.57.31:010][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.05.05-17.57.31:010][  0]LogD3D11RHI:     DeviceId    : 744c
+[2023.05.05-17.57.31:010][  0]LogD3D11RHI:     SubSysId    : 2422148c
+[2023.05.05-17.57.31:010][  0]LogD3D11RHI:     Revision    : 00c8
+[2023.05.05-17.57.31:010][  0]LogD3D11RHI:     DedicatedVideoMemory : 25710813184 bytes
+[2023.05.05-17.57.31:010][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.05-17.57.31:010][  0]LogD3D11RHI:     SharedSystemMemory : 17135298560 bytes
+[2023.05.05-17.57.31:010][  0]LogD3D11RHI:     AdapterLuid : 0 72056
+[2023.05.05-17.57.31:010][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.05-17.57.31:010][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.05.05-17.57.31:010][  0]LogHAL: Display: Platform has ~ 32 GB [34270597120 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.05.05-17.57.31:010][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.05.05-17.57.31:010][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.05.05-17.57.31:010][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.05.05-17.57.31:010][  0]LogInit: Computer: DESKTOP-HIJF7QL
+[2023.05.05-17.57.31:010][  0]LogInit: User: jimen
+[2023.05.05-17.57.31:010][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.05.05-17.57.31:010][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.05.05-17.57.31:010][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.05.05-17.57.31:010][  0]LogMemory: Platform Memory Stats for Windows
+[2023.05.05-17.57.31:010][  0]LogMemory: Process Physical Memory: 147.76 MB used, 169.60 MB peak
+[2023.05.05-17.57.31:010][  0]LogMemory: Process Virtual Memory: 139.93 MB used, 139.93 MB peak
+[2023.05.05-17.57.31:010][  0]LogMemory: Physical Memory: 7429.06 MB used,  25253.93 MB free, 32682.99 MB total
+[2023.05.05-17.57.31:010][  0]LogMemory: Virtual Memory: 10744.37 MB used,  47538.62 MB free, 58282.99 MB total
+[2023.05.05-17.57.31:010][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.05.05-17.57.31:012][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.05.05-17.57.31:012][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.05.05-17.57.31:012][  0]LogInit: Using OS detected language (en-US).
+[2023.05.05-17.57.31:013][  0]LogInit: Using OS detected locale (en-US).
+[2023.05.05-17.57.31:013][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.05.05-17.57.31:032][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.05.05-17.57.31:032][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.05.05-17.57.31:032][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.05.05-17.57.31:042][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.05.05-17.57.31:042][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.05.05-17.57.31:053][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.05.05-17.57.31:053][  0]LogD3D11RHI:     GPU DeviceId: 0x744c (for the marketing name, search the web for "GPU Device Id")
+[2023.05.05-17.57.31:053][  0]LogWindows: Attached monitors:
+[2023.05.05-17.57.31:053][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.05.05-17.57.31:053][  0]LogWindows: Found 1 attached monitors.
+[2023.05.05-17.57.31:053][  0]LogWindows: EnumDisplayDevices:
+[2023.05.05-17.57.31:053][  0]LogWindows:    0. 'AMD Radeon RX 7900 XTX' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.05.05-17.57.31:054][  0]LogWindows:    1. 'AMD Radeon RX 7900 XTX' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.05.05-17.57.31:054][  0]LogWindows:    2. 'AMD Radeon RX 7900 XTX' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.05.05-17.57.31:054][  0]LogWindows:    3. 'AMD Radeon RX 7900 XTX' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.05.05-17.57.31:054][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.05.05-17.57.31:054][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 7900 XTX
+[2023.05.05-17.57.31:054][  0]LogD3D11RHI:   Driver Version: AMD Software: Adrenalin Edition 23.1.1 (internal:31.0.14000.62003, unified:31.0.14000.62003)
+[2023.05.05-17.57.31:054][  0]LogD3D11RHI:      Driver Date: 1-6-2023
+[2023.05.05-17.57.31:054][  0]LogRHI: Texture pool is 16626 MB (70% of 23751 MB)
+[2023.05.05-17.57.31:065][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2023.05.05-17.57.31:065][  0]LogD3D11RHI:     Description : AMD Radeon RX 7900 XTX
+[2023.05.05-17.57.31:065][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.05.05-17.57.31:065][  0]LogD3D11RHI:     DeviceId    : 744c
+[2023.05.05-17.57.31:065][  0]LogD3D11RHI:     SubSysId    : 2422148c
+[2023.05.05-17.57.31:065][  0]LogD3D11RHI:     Revision    : 00c8
+[2023.05.05-17.57.31:065][  0]LogD3D11RHI:     DedicatedVideoMemory : 25710813184 bytes
+[2023.05.05-17.57.31:065][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.05-17.57.31:065][  0]LogD3D11RHI:     SharedSystemMemory : 17135298560 bytes
+[2023.05.05-17.57.31:065][  0]LogD3D11RHI:     AdapterLuid : 0 72056
+[2023.05.05-17.57.31:106][  0]LogD3D11RHI: Created device via AGS, feature level 11_1, supported extensions fffbf.
+[2023.05.05-17.57.31:106][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.05.05-17.57.31:106][  0]LogD3D11RHI: Async texture creation enabled
+[2023.05.05-17.57.31:106][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2023.05.05-17.57.31:106][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.05.05-17.57.31:119][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2023.05.05-17.57.31:122][  0]LogRendererCore: Ray tracing is disabled. Reason: not supported by current RHI.
+[2023.05.05-17.57.31:123][  0]LogShaderLibrary: Display: Using IoDispatcher for shader code library Global. Total 4322 unique shaders.
+[2023.05.05-17.57.31:123][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2023.05.05-17.57.31:123][  0]LogShaderLibrary: Display: Logical shader library 'Global' has been created, components 1
+[2023.05.05-17.57.31:123][  0]LogTemp: Display: Clearing the OS Cache
+[2023.05.05-17.57.31:131][  0]LogSlate: Using FreeType 2.10.0
+[2023.05.05-17.57.31:131][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.05-17.57.31:157][  0]LogShaderLibrary: Display: Using IoDispatcher for shader code library Playground. Total 5153 unique shaders.
+[2023.05.05-17.57.31:157][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Playground
+[2023.05.05-17.57.31:157][  0]LogShaderLibrary: Display: Logical shader library 'Playground' has been created, components 1
+[2023.05.05-17.57.31:157][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2023.05.05-17.57.31:157][  0]LogRHI: Display: Failed to open default shader pipeline cache for Playground using shader platform 0.
+[2023.05.05-17.57.31:157][  0]LogRHI: Display: Failed to open default shader pipeline cache for Playground using shader platform 0.
+[2023.05.05-17.57.31:157][  0]LogInit: Using OS detected language (en-US).
+[2023.05.05-17.57.31:157][  0]LogInit: Using OS detected locale (en-US).
+[2023.05.05-17.57.31:157][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.05.05-17.57.31:157][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2023.05.05-17.57.31:157][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.05.05-17.57.31:157][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.05.05-17.57.31:158][  0]LogAssetRegistry: FAssetRegistry took 0.0010 seconds to start up
+[2023.05.05-17.57.31:224][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.05.05-17.57.31:224][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.05-17.57.31:224][  0]LogDeviceProfileManager: Active device profile: [0000022AD0D8AA80][0000022AAA947630 50] Windows
+[2023.05.05-17.57.31:224][  0]LogDeviceProfileManager: Profiles: [0000022AD0D8AA80][0000022AAA947630 50] Windows, 
+[2023.05.05-17.57.31:224][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="Windows"
+[2023.05.05-17.57.31:236][  0]LogNetVersion: Playground 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1577409393)
+[2023.05.05-17.57.31:250][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.05-17.57.31:250][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.05-17.57.31:252][  0]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.000048 seconds
+[2023.05.05-17.57.31:258][  0]LogMoviePlayer: Initializing movie player
+[2023.05.05-17.57.31:259][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 2C2CC80F4EFC03D4A003F1B5044C2AA0 | Instance: 44DCBE784B1BE1C3681403A5B0712156 (DESKTOP-HIJF7QL-24320).
+[2023.05.05-17.57.31:260][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.05.05-17.57.31:264][  0]LogUObjectArray: 18436 objects as part of root set at end of initial load.
+[2023.05.05-17.57.31:264][  0]LogUObjectArray: 4 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2023.05.05-17.57.31:264][  0]LogUObjectAllocator: 4100624 out of 0 bytes used by permanent object pool.
+[2023.05.05-17.57.31:264][  0]LogUObjectArray: CloseDisregardForGC: 18436/18436 objects in disregard for GC pool
+[2023.05.05-17.57.31:264][  0]LogStreaming: Display: AsyncLoading2 - Thread Started: true, IsInitialLoad: false
+[2023.05.05-17.57.31:265][  0]LogEngine: Initializing Engine...
+[2023.05.05-17.57.31:265][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.05.05-17.57.31:281][  0]LogStreaming: Display: AsyncLoading2 - InitialLoad Finalized: 18148 script object entries in 495.18 KB
+[2023.05.05-17.57.31:281][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.05.05-17.57.31:281][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.05.05-17.57.31:281][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.05.05-17.57.31:281][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.05.05-17.57.31:281][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.05.05-17.57.31:281][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.05.05-17.57.31:281][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.05.05-17.57.31:281][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.05-17.57.31:281][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.05-17.57.31:281][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.05-17.57.31:281][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.05-17.57.31:281][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.05-17.57.31:281][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.05-17.57.31:281][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.05-17.57.31:281][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.05-17.57.31:281][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.05-17.57.31:281][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.05-17.57.31:281][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.05-17.57.31:284][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.05.05-17.57.31:284][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.05-17.57.31:316][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.05.05-17.57.31:316][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.05-17.57.31:317][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.05-17.57.31:317][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.05-17.57.31:317][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.05.05-17.57.31:317][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.05-17.57.31:318][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.05-17.57.31:318][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.05.05-17.57.31:318][  0]LogInit: FAudioDevice initialized.
+[2023.05.05-17.57.31:318][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.05.05-17.57.31:318][  0]LogInit: Texture streaming: Enabled
+[2023.05.05-17.57.31:318][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.05.05-17.57.31:319][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-17.57.31:320][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.05.05-17.57.31:320][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.05-17.57.31:320][  0]LogInit: Display: Game Engine Initialized.
+[2023.05.05-17.57.31:320][  0]LogInit: Display: Starting Game.
+[2023.05.05-17.57.31:320][  0]LogNet: Browse: /Game/StartScreen/StartScreenLevel?Name=Player
+[2023.05.05-17.57.31:320][  0]LogLoad: LoadMap: /Game/StartScreen/StartScreenLevel?Name=Player
+[2023.05.05-17.57.31:320][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2023.05.05-17.57.31:320][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-17.57.31:321][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-17.57.31:322][  0]LogStreaming: Display: 0.005 ms (0.001+0.003) ms for processing 35/35 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 1/2 (76->75 tracked) packages and 1/33 (79->78 tracked) public exports.
+[2023.05.05-17.57.31:322][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.05-17.57.31:323][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.05.05-17.57.31:329][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartScreenLevel'.
+[2023.05.05-17.57.31:329][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-17.57.31:330][  0]LogAIModule: Creating AISystem for world StartScreenLevel
+[2023.05.05-17.57.31:382][  0]LogStaticMesh: [SM_Ice] Mesh is marked for CPU read.
+[2023.05.05-17.57.31:382][  0]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.05-17.57.31:382][  0]LogWorld: Bringing World /Game/StartScreen/StartScreenLevel.StartScreenLevel up for play (max tick rate 0) at 2023.05.05-10.57.31
+[2023.05.05-17.57.31:382][  0]LogWorld: Bringing up level for play took: 0.000282
+[2023.05.05-17.57.31:382][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.05-17.57.31:390][  0]LogLoad: Took 0.069245 seconds to LoadMap(/Game/StartScreen/StartScreenLevel)
+[2023.05.05-17.57.31:390][  0]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Playground/Content/Fonts/HelpMe.ufont' (272K)
+[2023.05.05-17.57.31:391][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2023.05.05-17.57.31:392][  0]LogViewport: Scene viewport resized to 1920x1080, mode WindowedFullscreen.
+[2023.05.05-17.57.31:420][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.05-17.57.31:431][  0]LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
+[2023.05.05-17.57.31:431][  0]LogPakFile: AllPaks IndexSizes: DirectoryHashSize=146248, PathHashSize=16, EntriesSize=19104, TotalSize=165368
+[2023.05.05-17.57.31:431][  0]LogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
+[2023.05.05-17.57.31:431][  0]LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+[2023.05.05-17.57.31:431][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.05.05-17.57.31:431][  0]LogLoad: (Engine Initialization) Total time: 0.66 seconds
+[2023.05.05-17.57.31:499][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.05.05-17.57.31:504][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-17.57.31:552][  0]LogSlate: Slate font cache was flushed
+[2023.05.05-17.57.31:554][  1]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.05-17.57.31:555][  1]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Playground/Content/Fonts/HelpMe.ufont' (272K)
+[2023.05.05-17.57.36:351][989]LogNet: Browse: /Game/ThirdPerson/Maps/LevelOne
+[2023.05.05-17.57.36:351][989]LogLoad: LoadMap: /Game/ThirdPerson/Maps/LevelOne
+[2023.05.05-17.57.36:351][989]LogWorld: BeginTearingDown for /Game/StartScreen/StartScreenLevel
+[2023.05.05-17.57.36:351][989]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2023.05.05-17.57.36:351][989]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.05.05-17.57.36:352][989]LogWorld: UWorld::CleanupWorld for StartScreenLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-17.57.36:352][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-17.57.36:376][989]LogStreaming: Display: 0.380 ms (0.154+0.227) ms for processing 5471/5471 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 388/388 (476->88 tracked) packages and 1144/5083 (1235->91 tracked) public exports.
+[2023.05.05-17.57.36:381][989]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.05-17.57.36:386][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.05.05-17.57.37:254][989]LogStaticMesh: [SM_Ice] Mesh is marked for CPU read.
+[2023.05.05-17.57.37:255][989]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelOne'.
+[2023.05.05-17.57.37:256][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-17.57.37:256][989]LogAIModule: Creating AISystem for world LevelOne
+[2023.05.05-17.57.37:256][989]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.05-17.57.37:258][989]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Wendigo_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-17.57.37:271][989]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-17.57.37:271][989]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-17.57.37:271][989]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-17.57.37:272][989]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Wendigo_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-17.57.37:272][989]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Wendigo_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-17.57.37:272][989]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-17.57.37:273][989]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-17.57.37:273][989]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-17.57.37:274][989]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-17.57.37:274][989]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-17.57.37:274][989]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-17.57.37:275][989]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-17.57.37:275][989]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Wendigo_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-17.57.37:278][989]LogWorld: Bringing World /Game/ThirdPerson/Maps/LevelOne.LevelOne up for play (max tick rate 0) at 2023.05.05-10.57.37
+[2023.05.05-17.57.37:280][989]LogWorld: Bringing up level for play took: 0.023941
+[2023.05.05-17.57.37:286][989]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.05-17.57.37:286][989]LogLevel: Warning: DisableInput on a LevelScript actor can not be specified for only one PlayerController.  Disabling for all PlayerControllers.
+[2023.05.05-17.57.37:288][989]LogBlueprintUserMessages: [BP_NPC_C_0] Hello
+[2023.05.05-17.57.37:288][989]LogBlueprintUserMessages: [BP_NPC_C_1] Hello
+[2023.05.05-17.57.37:288][989]LogBlueprintUserMessages: [BP_NPC_C_2] Hello
+[2023.05.05-17.57.37:289][989]LogMaterial: Warning: Material /Game/StarterContent/Particles/Materials/M_Radial_Gradient.M_Radial_Gradient missing bUsedWithNiagaraSprites=True! Default Material will be used in game.
+[2023.05.05-17.57.37:289][989]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2023.05.05-17.57.37:290][989]LogLoad: Took 0.938712 seconds to LoadMap(/Game/ThirdPerson/Maps/LevelOne)
+[2023.05.05-17.57.51:991][762]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MetalBGMImproved'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.05.05-17.57.59:441][765]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Playground/Content/Fonts/veteran_typewriter.ufont' (52K)
+[2023.05.05-17.57.59:442][765]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2023.05.05-17.57.59:442][765]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.05.05-17.58.04:032][605]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2023.05.05-17.58.04:032][605]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.05.05-17.58.04:995][739]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2023.05.05-17.58.18:967][891]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2023.05.05-17.58.18:967][891]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.05.05-17.58.23:651][725]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2023.05.05-17.58.23:651][725]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.05.05-17.58.26:316][106]LogBlueprintUserMessages: [BP_NPC_C_1] Hello
+[2023.05.05-17.58.26:316][106]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.05-17.58.26:316][106]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.05-17.58.32:591][966]LogStreaming: Display: 2.666 ms (2.222+0.444) ms for processing 44233/44233 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 3/3 (1037->1034 tracked) packages and 197/44230 (2265->2068 tracked) public exports.
+[2023.05.05-17.58.33:004][ 24]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.05-17.58.33:004][ 24]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.05-17.58.37:043][596]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2023.05.05-17.58.37:043][596]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.05.05-17.58.43:303][666]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2023.05.05-17.58.43:303][666]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.05.05-17.59.11:808][944]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2023.05.05-17.59.11:808][944]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.05.05-17.59.33:446][808]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2023.05.05-17.59.33:446][808]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.05.05-17.59.33:696][841]LogStreaming: Display: 1.713 ms (1.429+0.284) ms for processing 29914/29914 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 11/11 (1034->1023 tracked) packages and 35/29903 (2068->2033 tracked) public exports.
+[2023.05.05-17.59.36:892][252]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147480329] 50.0
+[2023.05.05-17.59.49:873][974]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147480329] 50.0
+[2023.05.05-17.59.54:932][581]LogBlueprintUserMessages: [BP_NPC_C_2] Hello
+[2023.05.05-17.59.54:932][581]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.05-17.59.54:932][581]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.05-17.59.59:919][222]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.05-17.59.59:919][222]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.05-18.00.26:665][240]LogMaterial: Warning: Material /Game/StarterContent/Particles/Materials/M_Spark.M_Spark missing bUsedWithNiagaraSprites=True! Default Material will be used in game.
+[2023.05.05-18.00.26:665][240]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2023.05.05-18.00.27:696][357]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.00.27:696][357]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.00.30:573][667]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147480329] 42.5
+[2023.05.05-18.00.31:918][784]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.00.31:918][784]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.00.34:268][ 21]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147480329] 42.5
+[2023.05.05-18.00.34:802][ 78]LogStreaming: Display: 2.104 ms (1.754+0.349) ms for processing 41254/41254 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 3/3 (1023->1020 tracked) packages and 8/41251 (2033->2025 tracked) public exports.
+[2023.05.05-18.00.42:655][933]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.00.42:655][933]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.00.44:342][ 84]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147480329] 42.5
+[2023.05.05-18.00.46:771][321]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147480329] 42.5
+[2023.05.05-18.00.48:744][547]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147480329] 42.5
+[2023.05.05-18.00.51:063][833]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147480329] 42.5
+[2023.05.05-18.00.51:601][896]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147480329] 42.5
+[2023.05.05-18.00.54:218][159]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2023.05.05-18.00.54:218][159]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.05.05-18.01.00:208][951]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2023.05.05-18.01.00:208][951]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.05.05-18.01.24:133][557]LogBlueprintUserMessages: [BP_NPC_C_0] Hello
+[2023.05.05-18.01.24:133][557]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.05-18.01.24:133][557]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.05-18.01.30:309][237]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.05-18.01.30:309][237]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.05-18.01.35:904][925]LogStreaming: Display: 1.399 ms (1.093+0.306) ms for processing 26717/26717 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 4/4 (1020->1016 tracked) packages and 21/26713 (2025->2004 tracked) public exports.
+[2023.05.05-18.01.43:865][ 52]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2023.05.05-18.01.43:865][ 52]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.05.05-18.01.48:345][891]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2023.05.05-18.01.48:345][891]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.05.05-18.01.54:213][774]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2023.05.05-18.01.54:213][774]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.05.05-18.02.00:873][ 15]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2023.05.05-18.02.00:873][ 15]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.05.05-18.02.10:340][397]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.02.10:340][397]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.02.14:906][986]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.02.14:906][986]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.02.19:027][531]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147480329] 32.5
+[2023.05.05-18.02.19:517][604]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147480329] 32.5
+[2023.05.05-18.02.22:084][924]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.02.22:084][924]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.02.26:538][618]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147480329] 32.5
+[2023.05.05-18.02.30:112][ 77]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147480329] 32.5
+[2023.05.05-18.02.32:227][353]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.02.32:227][353]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.02.37:009][998]LogStreaming: Display: 2.009 ms (1.717+0.291) ms for processing 36636/36636 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 9/9 (1016->1007 tracked) packages and 33/36627 (2004->1971 tracked) public exports.
+[2023.05.05-18.02.37:510][ 63]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147480329] 32.5
+[2023.05.05-18.02.38:067][131]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147480329] 32.5
+[2023.05.05-18.02.39:787][349]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.02.39:787][349]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.02.46:120][209]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147480329] 32.5
+[2023.05.05-18.02.50:771][851]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147480329] 32.5
+[2023.05.05-18.02.59:898][994]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.02.59:898][994]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.03.01:259][153]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147480329] 32.5
+[2023.05.05-18.03.38:110][660]LogStreaming: Display: 2.152 ms (1.791+0.361) ms for processing 36887/36887 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (1007->1007 tracked) packages and 0/36887 (1971->1971 tracked) public exports.
+[2023.05.05-18.04.24:771][184]LogNet: Browse: /Game/ThirdPerson/Maps/LevelTwoFolder/LevelTwo
+[2023.05.05-18.04.24:771][184]LogLoad: LoadMap: /Game/ThirdPerson/Maps/LevelTwoFolder/LevelTwo
+[2023.05.05-18.04.24:771][184]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/LevelOne
+[2023.05.05-18.04.24:771][184]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2023.05.05-18.04.24:773][184]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-18.04.24:775][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-18.04.24:808][184]LogStreaming: Display: 1.889 ms (1.239+0.650) ms for processing 33707/33707 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 919/919 (1007->88 tracked) packages and 1880/32788 (1971->91 tracked) public exports.
+[2023.05.05-18.04.24:813][184]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.05-18.04.24:889][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.05.05-18.04.24:897][184]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.05.05-18.04.25:099][184]LogStaticMesh: [SM_Ice] Mesh is marked for CPU read.
+[2023.05.05-18.04.25:100][184]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.05.05-18.04.25:100][184]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTwo'.
+[2023.05.05-18.04.25:100][184]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-18.04.25:101][184]LogAIModule: Creating AISystem for world LevelTwo
+[2023.05.05-18.04.25:101][184]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.05-18.04.25:101][184]LogWorldPartition: Display: WorldPartition initialize took 23 us
+[2023.05.05-18.04.25:101][184]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.05-18.04.25:105][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Wendigo_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:106][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Enemy_Rusher_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:108][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Wendigo_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:109][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:113][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Enemy_Rusher_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:114][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:114][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:141][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Enemy_Rusher_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:144][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:144][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Wendigo_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:145][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Enemy_Rusher_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:146][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Wendigo_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:146][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Wendigo_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:146][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Wendigo_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:148][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:149][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:161][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Enemy_Rusher_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:161][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Wendigo_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:163][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:168][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Enemy_Rusher_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:169][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Wendigo_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:169][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Enemy_Rusher_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:169][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:170][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Enemy_Rusher_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:170][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Wendigo_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:170][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:172][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Enemy_Rusher_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:172][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Enemy_Rusher_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:173][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Enemy_Rusher_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:173][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Enemy_Rusher_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:174][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Enemy_Rusher_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:175][184]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.04.25:176][184]LogWorld: Bringing World /Game/ThirdPerson/Maps/LevelTwoFolder/LevelTwo.LevelTwo up for play (max tick rate 0) at 2023.05.05-11.04.25
+[2023.05.05-18.04.25:180][184]LogWorld: Bringing up level for play took: 0.078719
+[2023.05.05-18.04.25:182][184]LogLevel: Warning: DisableInput on a LevelScript actor can not be specified for only one PlayerController.  Disabling for all PlayerControllers.
+[2023.05.05-18.04.25:183][184]LogBlueprintUserMessages: [BP_NPC_C_UAID_F02F7476F3E3287E01_1417031257] Hello
+[2023.05.05-18.04.25:183][184]LogBlueprintUserMessages: [BP_NPC_C_UAID_F02F7476F3E3297E01_1416355598] Hello
+[2023.05.05-18.04.25:184][184]LogWorldPartition: New Streaming Source: PlayerController_2147239273 -> Position: X=46271.359 Y=-47040.930 Z=412.331
+[2023.05.05-18.04.25:184][184]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.05-18.04.25:184][184]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2023.05.05-18.04.25:184][184]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=46271.359 Y=-47040.930 Z=412.331,P=13.064496 Y=114.450211 R=0.000000
+[2023.05.05-18.04.25:184][184]LogMaterial: Warning: Material /Game/StarterContent/Particles/Materials/M_Radial_Gradient.M_Radial_Gradient missing bUsedWithNiagaraSprites=True! Default Material will be used in game.
+[2023.05.05-18.04.25:184][184]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2023.05.05-18.04.25:185][184]LogLoad: Took 0.413606 seconds to LoadMap(/Game/ThirdPerson/Maps/LevelTwoFolder/LevelTwo)
+[2023.05.05-18.04.25:199][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-18.04.25:201][185]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.098418 > MaxSimulationTimeStep (0.050) for 'BP_Enemy_Wendigo_Elite_C_UAID_FC3497A291FD1D7E01_1942685379', movement 'Walking'
+[2023.05.05-18.04.25:204][185]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.05-18.04.39:211][704]LogStreaming: Display: 0.161 ms (0.101+0.060) ms for processing 2704/2704 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (971->971 tracked) packages and 160/2704 (1933->1773 tracked) public exports.
+[2023.05.05-18.04.42:029][196]LogWorldPartition: Detected Streaming Source Teleport: PlayerController_2147239273 -> Last Position: X=46271.359 Y=-47040.930 Z=412.331 -> New Position: X=27658.562 Y=-9928.146 Z=2866.254
+[2023.05.05-18.04.54:397][ 52]LogWorldPartition: Detected Streaming Source Teleport: PlayerController_2147239273 -> Last Position: X=27658.562 Y=-9928.146 Z=2866.254 -> New Position: X=17639.596 Y=-30266.488 Z=1376.093
+[2023.05.05-18.05.02:080][347]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2023.05.05-18.05.02:080][347]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.05.05-18.05.02:083][347]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont' (162K)
+[2023.05.05-18.05.02:083][347]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2023.05.05-18.05.02:624][438]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2023.05.05-18.05.02:624][438]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.05.05-18.05.08:044][299]LogWorldPartition: Detected Streaming Source Teleport: PlayerController_2147239273 -> Last Position: X=11562.038 Y=-38487.000 Z=400.266 -> New Position: X=-28276.170 Y=84524.969 Z=475.288
+[2023.05.05-18.05.22:449][961]LogWorldPartition: Detected Streaming Source Teleport: PlayerController_2147239273 -> Last Position: X=-27623.779 Y=84870.594 Z=403.664 -> New Position: X=46890.231 Y=-47319.180 Z=162.224
+[2023.05.05-18.05.25:040][494]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2023.05.05-18.05.25:043][495]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Level2'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.05.05-18.05.31:196][508]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Playground/Content/Fonts/veteran_typewriter.ufont' (52K)
+[2023.05.05-18.05.31:196][508]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2023.05.05-18.05.31:196][508]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.05.05-18.05.35:576][443]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2023.05.05-18.05.35:576][443]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.05.05-18.05.40:314][283]LogStreaming: Display: 0.529 ms (0.398+0.131) ms for processing 9233/9233 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 16/16 (971->955 tracked) packages and 31/9217 (1773->1742 tracked) public exports.
+[2023.05.05-18.05.41:027][413]LogBlueprintUserMessages: [BP_NPC_C_UAID_F02F7476F3E3287E01_1417031257] Hello
+[2023.05.05-18.05.41:027][413]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.05-18.05.41:027][413]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.05-18.05.44:818][137]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.05-18.05.44:818][137]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.05-18.05.59:957][687]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.05.59:957][687]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.06.01:749][980]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.06.07:352][894]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.06.07:756][966]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.06.08:158][ 31]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.06.24:774][853]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.06.24:774][853]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.06.29:390][626]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.06.31:461][997]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.06.41:418][728]LogStreaming: Display: 1.147 ms (0.967+0.180) ms for processing 20644/20644 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (955->955 tracked) packages and 0/20644 (1742->1742 tracked) public exports.
+[2023.05.05-18.06.57:037][139]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.06.57:037][139]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.07.00:643][659]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.07.01:308][753]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.07.01:308][753]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.07.11:478][283]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.07.26:389][611]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.07.26:389][611]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.07.36:690][195]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.07.42:522][112]LogStreaming: Display: 1.361 ms (1.170+0.191) ms for processing 22633/22633 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (955->955 tracked) packages and 0/22633 (1742->1742 tracked) public exports.
+[2023.05.05-18.07.49:361][151]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.07.50:171][274]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.07.50:574][335]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.07.50:646][346]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.07.50:647][346]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.07.55:680][ 74]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.07.55:680][ 74]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.07.58:222][452]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.08.00:623][827]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.08.02:700][158]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.08.03:884][343]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.08.04:693][472]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.08.08:184][ 36]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.08.08:184][ 36]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.08.09:970][307]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.08.12:231][649]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.08.43:625][398]LogStreaming: Display: 0.963 ms (0.759+0.204) ms for processing 19897/19897 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (955->955 tracked) packages and 0/19897 (1742->1742 tracked) public exports.
+[2023.05.05-18.09.08:590][ 91]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.09.08:590][ 91]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.09.39:665][176]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.09.39:690][180]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.09.39:690][180]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.09.44:730][852]LogStreaming: Display: 0.686 ms (0.549+0.136) ms for processing 14832/14832 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (955->955 tracked) packages and 0/14832 (1742->1742 tracked) public exports.
+[2023.05.05-18.09.46:930][163]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.09.46:931][163]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.09.47:842][293]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.09.54:954][293]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.09.57:372][653]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.10.01:596][207]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.10.01:596][207]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.10.25:040][825]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.10.25:040][825]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.10.26:871][994]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.10.31:712][406]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.10.40:247][117]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147239250] 47.5
+[2023.05.05-18.10.45:841][585]LogStreaming: Display: 0.813 ms (0.621+0.193) ms for processing 15096/15096 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (955->955 tracked) packages and 0/15096 (1742->1742 tracked) public exports.
+[2023.05.05-18.11.44:088][930]LogBlueprintUserMessages: [BP_NPC_C_UAID_F02F7476F3E3297E01_1416355598] Hello
+[2023.05.05-18.11.44:088][930]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.05-18.11.44:088][930]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.05-18.11.46:941][121]LogStreaming: Display: 0.224 ms (0.179+0.045) ms for processing 4716/4716 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (955->955 tracked) packages and 0/4716 (1742->1742 tracked) public exports.
+[2023.05.05-18.11.48:854][251]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.05-18.11.48:854][251]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.05-18.12.48:048][881]LogStreaming: Display: 0.280 ms (0.217+0.063) ms for processing 5938/5938 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (955->955 tracked) packages and 0/5938 (1742->1742 tracked) public exports.
+[2023.05.05-18.13.49:154][293]LogStreaming: Display: 0.341 ms (0.264+0.076) ms for processing 6686/6686 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (955->955 tracked) packages and 0/6686 (1742->1742 tracked) public exports.
+[2023.05.05-18.13.59:784][611]LogMaterial: Warning: Material /Game/StarterContent/Particles/Materials/M_Spark.M_Spark missing bUsedWithNiagaraSprites=True! Default Material will be used in game.
+[2023.05.05-18.13.59:784][611]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2023.05.05-18.14.19:575][464]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2023.05.05-18.14.19:575][464]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.05.05-18.14.22:551][120]LogNet: Browse: /Game/StartScreen/StartScreenLevel
+[2023.05.05-18.14.22:551][120]LogLoad: LoadMap: /Game/StartScreen/StartScreenLevel
+[2023.05.05-18.14.22:551][120]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/LevelTwoFolder/LevelTwo
+[2023.05.05-18.14.22:551][120]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2023.05.05-18.14.22:552][120]LogWorld: UWorld::CleanupWorld for LevelTwo, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-18.14.22:555][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-18.14.22:587][120]LogStreaming: Display: 0.807 ms (0.389+0.418) ms for processing 11286/11286 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 867/867 (955->88 tracked) packages and 1651/10419 (1742->91 tracked) public exports.
+[2023.05.05-18.14.22:593][120]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.05-18.14.22:618][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.05-18.14.22:625][120]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.05.05-18.14.22:628][120]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartScreenLevel'.
+[2023.05.05-18.14.22:628][120]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-18.14.22:628][120]LogAIModule: Creating AISystem for world StartScreenLevel
+[2023.05.05-18.14.22:671][120]LogStaticMesh: [SM_Ice] Mesh is marked for CPU read.
+[2023.05.05-18.14.22:671][120]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.05-18.14.22:671][120]LogWorld: Bringing World /Game/StartScreen/StartScreenLevel.StartScreenLevel up for play (max tick rate 0) at 2023.05.05-11.14.22
+[2023.05.05-18.14.22:671][120]LogWorld: Bringing up level for play took: 0.000285
+[2023.05.05-18.14.22:672][120]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.05-18.14.22:675][120]LogLoad: Took 0.124759 seconds to LoadMap(/Game/StartScreen/StartScreenLevel)
+[2023.05.05-18.14.22:677][120]LogSlate: Took 0.000442 seconds to synchronously load lazily loaded font '../../../Playground/Content/Fonts/HelpMe.ufont' (272K)
+[2023.05.05-18.14.22:681][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-18.14.22:682][121]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.05-18.14.22:683][121]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Playground/Content/Fonts/HelpMe.ufont' (272K)
+[2023.05.05-18.14.23:838][555]LogNet: Browse: /Game/ThirdPerson/Maps/LevelThreeFolder/LevelThree
+[2023.05.05-18.14.23:838][555]LogLoad: LoadMap: /Game/ThirdPerson/Maps/LevelThreeFolder/LevelThree
+[2023.05.05-18.14.23:838][555]LogWorld: BeginTearingDown for /Game/StartScreen/StartScreenLevel
+[2023.05.05-18.14.23:838][555]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2023.05.05-18.14.23:838][555]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.05.05-18.14.23:839][555]LogWorld: UWorld::CleanupWorld for StartScreenLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-18.14.23:839][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-18.14.23:867][555]LogStreaming: Display: 0.402 ms (0.148+0.254) ms for processing 3920/3920 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 388/388 (476->88 tracked) packages and 1144/3532 (1235->91 tracked) public exports.
+[2023.05.05-18.14.23:870][555]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.05-18.14.23:884][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.05.05-18.14.24:058][555]LogStaticMesh: [SM_Ice] Mesh is marked for CPU read.
+[2023.05.05-18.14.24:058][555]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.05.05-18.14.24:058][555]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelThree'.
+[2023.05.05-18.14.24:059][555]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-18.14.24:059][555]LogAIModule: Creating AISystem for world LevelThree
+[2023.05.05-18.14.24:060][555]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.05-18.14.24:060][555]LogWorldPartition: Display: WorldPartition initialize took 19 us
+[2023.05.05-18.14.24:060][555]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.05-18.14.24:072][555]LogWorld: Bringing World /Game/ThirdPerson/Maps/LevelThreeFolder/LevelThree.LevelThree up for play (max tick rate 0) at 2023.05.05-11.14.24
+[2023.05.05-18.14.24:073][555]LogWorld: Bringing up level for play took: 0.013051
+[2023.05.05-18.14.24:075][555]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2023.05.05-18.14.24:075][555]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.05.05-18.14.24:075][555]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2023.05.05-18.14.24:075][555]LogWorldPartition: New Streaming Source: PlayerController_2147111563 -> Position: X=43062.488 Y=-27459.725 Z=2789.025
+[2023.05.05-18.14.24:075][555]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.05-18.14.24:075][555]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2023.05.05-18.14.24:075][555]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=43062.488 Y=-27459.725 Z=2789.025,P=0.000000 Y=124.999999 R=-0.000000
+[2023.05.05-18.14.24:076][555]LogLoad: Took 0.238256 seconds to LoadMap(/Game/ThirdPerson/Maps/LevelThreeFolder/LevelThree)
+[2023.05.05-18.14.50:254][835]LogStreaming: Display: 0.244 ms (0.168+0.076) ms for processing 4509/4509 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (788->788 tracked) packages and 148/4509 (1540->1392 tracked) public exports.
+[2023.05.05-18.14.53:752][484]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.14.53:752][484]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.14.56:623][962]LogMaterial: Warning: Material /Game/StarterContent/Particles/Materials/M_Radial_Gradient.M_Radial_Gradient missing bUsedWithNiagaraSprites=True! Default Material will be used in game.
+[2023.05.05-18.14.56:623][962]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2023.05.05-18.15.06:092][328]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.15.06:092][328]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.15.09:816][798]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147111540] 50.0
+[2023.05.05-18.15.13:290][327]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.15.13:290][327]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.15.27:249][151]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.15.27:249][151]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.15.27:748][221]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor_3
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/LevelThreeFolder/LevelThree.LevelThree:PersistentLevel.BP_ThirdPersonCharacter_C_2147111545
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0756
+[2023.05.05-18.15.27:749][221]LogScript: Warning: Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter
+
+[2023.05.05-18.15.28:586][349]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147111540] 50.0
+[2023.05.05-18.15.34:194][111]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.15.34:194][111]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.15.37:095][481]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147111540] 50.0
+[2023.05.05-18.15.38:057][596]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147111540] 50.0
+[2023.05.05-18.15.42:520][293]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.15.42:521][293]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.15.42:522][293]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.15.42:522][293]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.15.42:523][293]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.15.42:523][293]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.15.42:524][293]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Warrock_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.15.42:525][293]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Wendigo_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.15.42:525][293]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=20661.797 Y=-213.648 Z=2086.053] for [BP_Enemy_Ranged_C]
+[2023.05.05-18.15.42:525][293]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Wendigo_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.15.42:526][293]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=20661.797 Y=-213.648 Z=2086.053] for [BP_Enemy_Ranged_C]
+[2023.05.05-18.15.42:526][293]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Wendigo_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.15.42:526][293]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=20661.797 Y=-213.648 Z=2086.053] for [BP_Enemy_Ranged_C]
+[2023.05.05-18.15.42:526][293]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AP_Wendigo_C already exists. Remove duplicates from the animation graph for this class.
+[2023.05.05-18.15.42:527][293]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=20661.797 Y=-213.648 Z=2086.053] for [BP_Enemy_Ranged_C]
+[2023.05.05-18.15.51:361][738]LogStreaming: Display: 1.461 ms (1.266+0.195) ms for processing 25587/25587 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (788->788 tracked) packages and 0/25587 (1392->1392 tracked) public exports.
+[2023.05.05-18.15.59:844][948]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147111540] 50.0
+[2023.05.05-18.16.02:304][306]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.16.02:304][306]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.16.15:472][141]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.16.15:473][141]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.16.18:080][499]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147111540] 50.0
+[2023.05.05-18.16.18:486][554]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147111540] 50.0
+[2023.05.05-18.16.44:034][164]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.16.44:034][164]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.16.52:466][161]LogStreaming: Display: 2.198 ms (1.802+0.396) ms for processing 36079/36079 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (788->788 tracked) packages and 0/36079 (1392->1392 tracked) public exports.
+[2023.05.05-18.17.12:143][296]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.17.12:143][296]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.17.24:402][346]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.17.24:402][346]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.17.29:345][202]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.17.29:345][202]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.17.38:442][624]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.17.38:442][624]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.17.40:214][896]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147111540] 50.0
+[2023.05.05-18.17.46:843][860]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147111540] 50.0
+[2023.05.05-18.17.51:516][477]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.17.51:516][477]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.17.53:567][749]LogStreaming: Display: 1.291 ms (1.116+0.176) ms for processing 21374/21374 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (788->788 tracked) packages and 0/21374 (1392->1392 tracked) public exports.
+[2023.05.05-18.17.56:409][206]LogBlueprintUserMessages: [PrimaryWeapon1_GEN_VARIABLE_Weapon_1_C_CAT_2147111540] 50.0
+[2023.05.05-18.17.59:812][695]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.17.59:812][695]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.18.05:281][473]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion_3.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.18.05:281][473]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/VFX/Aaron_Materials/ShockWave.ShockWave:Ice_Explosion001_5.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.05.05-18.18.52:839][858]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'BossBattleLoop'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.05.05-18.18.54:668][151]LogStreaming: Display: 1.171 ms (0.986+0.185) ms for processing 19739/19739 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (788->788 tracked) packages and 0/19739 (1392->1392 tracked) public exports.
+[2023.05.05-18.18.57:131][552]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2023.05.05-18.18.57:131][552]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.05.05-18.18.57:134][552]LogSlate: Took 0.000373 seconds to synchronously load lazily loaded font '../../../Playground/Content/Fonts/HelpMe.ufont' (272K)
+[2023.05.05-18.19.05:649][ 95]LogNet: Browse: /Game/StartScreen/StartScreenLevel
+[2023.05.05-18.19.05:649][ 95]LogLoad: LoadMap: /Game/StartScreen/StartScreenLevel
+[2023.05.05-18.19.05:649][ 95]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/LevelThreeFolder/LevelThree
+[2023.05.05-18.19.05:649][ 95]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2023.05.05-18.19.05:650][ 95]LogWorld: UWorld::CleanupWorld for LevelThree, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-18.19.05:652][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-18.19.05:677][ 95]LogStreaming: Display: 0.529 ms (0.203+0.326) ms for processing 5214/5214 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 700/700 (788->88 tracked) packages and 1301/4514 (1392->91 tracked) public exports.
+[2023.05.05-18.19.05:680][ 95]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.05-18.19.05:704][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.05.05-18.19.05:710][ 95]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.05.05-18.19.05:713][ 95]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartScreenLevel'.
+[2023.05.05-18.19.05:713][ 95]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-18.19.05:713][ 95]LogAIModule: Creating AISystem for world StartScreenLevel
+[2023.05.05-18.19.05:759][ 95]LogStaticMesh: [SM_Ice] Mesh is marked for CPU read.
+[2023.05.05-18.19.05:759][ 95]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.05-18.19.05:759][ 95]LogWorld: Bringing World /Game/StartScreen/StartScreenLevel.StartScreenLevel up for play (max tick rate 0) at 2023.05.05-11.19.05
+[2023.05.05-18.19.05:759][ 95]LogWorld: Bringing up level for play took: 0.000228
+[2023.05.05-18.19.05:759][ 95]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.05-18.19.05:763][ 95]LogLoad: Took 0.115194 seconds to LoadMap(/Game/StartScreen/StartScreenLevel)
+[2023.05.05-18.19.05:765][ 95]LogSlate: Took 0.000513 seconds to synchronously load lazily loaded font '../../../Playground/Content/Fonts/HelpMe.ufont' (272K)
+[2023.05.05-18.19.05:767][ 95]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2023.05.05-18.19.05:770][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-18.19.05:771][ 96]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.05-18.19.05:772][ 96]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Playground/Content/Fonts/HelpMe.ufont' (272K)
+[2023.05.05-18.19.55:767][831]LogStreaming: Display: 0.817 ms (0.626+0.190) ms for processing 20968/20968 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (475->475 tracked) packages and 148/20968 (1233->1085 tracked) public exports.
+[2023.05.05-18.20.56:869][629]LogStreaming: Display: 1.045 ms (0.858+0.187) ms for processing 20798/20798 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (475->475 tracked) packages and 0/20798 (1085->1085 tracked) public exports.
+[2023.05.05-18.21.57:969][232]LogStreaming: Display: 0.603 ms (0.485+0.117) ms for processing 13603/13603 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (475->475 tracked) packages and 0/13603 (1085->1085 tracked) public exports.
+[2023.05.05-18.22.59:075][331]LogStreaming: Display: 0.897 ms (0.715+0.182) ms for processing 13099/13099 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (475->475 tracked) packages and 0/13099 (1085->1085 tracked) public exports.
+[2023.05.05-18.23.28:941][270]LogActor: Warning: BP_ThirdPersonCharacter_C_2147003688 is outside the world bounds!
+[2023.05.05-18.23.29:045][286]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2023.05.05-18.23.29:045][286]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.05.05-18.23.29:045][286]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.05.05-18.24.00:178][ 82]LogStreaming: Display: 0.590 ms (0.468+0.121) ms for processing 9832/9832 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 1/1 (476->475 tracked) packages and 2/9831 (1087->1085 tracked) public exports.
+[2023.05.05-18.24.06:192][634]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2023.05.05-18.24.06:192][634]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.05.05-18.24.06:193][634]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont' (162K)
+[2023.05.05-18.24.06:194][634]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2023.05.05-18.24.07:854][411]Closing by request
+[2023.05.05-18.24.07:854][411]LogWindows: FPlatformMisc::RequestExit(0)
+[2023.05.05-18.24.07:854][411]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2023.05.05-18.24.07:854][411]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.05.05-18.24.07:857][412]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.05.05-18.24.07:857][412]LogInit: Display: PreExit Game.
+[2023.05.05-18.24.07:857][412]LogWorld: BeginTearingDown for /Game/StartScreen/StartScreenLevel
+[2023.05.05-18.24.07:858][412]LogWorld: UWorld::CleanupWorld for StartScreenLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-18.24.07:858][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-18.24.08:175][412]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.05.05-18.24.08:175][412]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.05.05-18.24.08:175][412]LogAudio: Display: Audio Device unregistered from world 'StartScreenLevel'.
+[2023.05.05-18.24.08:206][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.05.05-18.24.08:206][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.05.05-18.24.08:209][412]LogAudio: Display: Audio Device Manager Shutdown
+[2023.05.05-18.24.08:209][412]LogSlate: Request Window 'Playground (64-bit Development PCD3D_SM5) ' being destroyed
+[2023.05.05-18.24.08:215][412]LogSlate: Window 'Playground (64-bit Development PCD3D_SM5) ' being destroyed
+[2023.05.05-18.24.08:215][412]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.05.05-18.24.08:218][412]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.05.05-18.24.08:218][412]LogExit: Preparing to exit.
+[2023.05.05-18.24.08:218][412]LogMoviePlayer: Shutting down movie player
+[2023.05.05-18.24.08:222][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.05-18.24.08:230][412]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.05.05-18.24.08:232][412]LogExit: Game engine shut down
+[2023.05.05-18.24.08:263][412]LogExit: Object subsystem successfully closed.
+[2023.05.05-18.24.08:272][412]LogModuleManager: Shutting down and abandoning module AutomationController (312)
+[2023.05.05-18.24.08:272][412]LogModuleManager: Shutting down and abandoning module AutomationWorker (310)
+[2023.05.05-18.24.08:272][412]LogModuleManager: Shutting down and abandoning module Voice (308)
+[2023.05.05-18.24.08:272][412]LogModuleManager: Shutting down and abandoning module AIModule (306)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module NavigationSystem (305)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (302)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (300)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module WebMMedia (298)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (296)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (294)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (292)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module CharacterAI (290)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module SessionServices (288)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module LiveCoding (286)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (284)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module MovieScene (282)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (280)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (278)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module AudioMixer (277)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module AudioMixerCore (276)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (272)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module TypedElementFramework (270)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (268)
+[2023.05.05-18.24.08:273][412]LogModuleManager: Shutting down and abandoning module ProfilerService (266)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module TaskGraph (264)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module Synthesis (262)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module ResonanceAudio (260)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (258)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (256)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module GooglePAD (254)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module DynamicMesh (252)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (250)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (248)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module GeometryCache (246)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (244)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module CableComponent (242)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module AudioCapture (240)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (239)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module AssetTags (236)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (234)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module AppleImageUtils (232)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module AndroidPermission (230)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (228)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module TemplateSequence (224)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module SequencerScripting (222)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module MediaCompositing (220)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module ImgMedia (218)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (216)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module Landmass (214)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (212)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module ChaosNiagara (210)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module BackChannel (208)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module AutomationUtils (206)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module UObjectPlugin (204)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (202)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module ControlRigSpline (200)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module SoundFields (198)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module SignificanceManager (196)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (194)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (192)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module GameplayAbilities (190)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module GameplayDebugger (189)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module DataRegistry (186)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (184)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (183)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (180)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module ActorSequence (178)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module UdpMessaging (176)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module TcpMessaging (174)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (172)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module NiagaraUIRenderer (170)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (168)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module Niagara (166)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module SignalProcessing (165)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module NiagaraCore (162)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module PBIK (160)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module FullBodyIK (158)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module FacialAnimation (156)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module AnimationSharing (154)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module GameplayCameras (152)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module IKRig (150)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module ControlRig (148)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module LevelSequence (147)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module Paper2D (144)
+[2023.05.05-18.24.08:322][412]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (142)
+[2023.05.05-18.24.08:323][412]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (140)
+[2023.05.05-18.24.08:323][412]LogModuleManager: Shutting down and abandoning module AndroidFileServer (138)
+[2023.05.05-18.24.08:323][412]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (136)
+[2023.05.05-18.24.08:323][412]LogModuleManager: Shutting down and abandoning module PacketHandler (134)
+[2023.05.05-18.24.08:323][412]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (132)
+[2023.05.05-18.24.08:323][412]LogModuleManager: Shutting down and abandoning module MediaAssets (130)
+[2023.05.05-18.24.08:323][412]LogModuleManager: Shutting down and abandoning module Overlay (128)
+[2023.05.05-18.24.08:323][412]LogModuleManager: Shutting down and abandoning module FunctionalTesting (126)
+[2023.05.05-18.24.08:323][412]LogModuleManager: Shutting down and abandoning module MessageLog (124)
+[2023.05.05-18.24.08:323][412]LogModuleManager: Shutting down and abandoning module UMG (122)
+[2023.05.05-18.24.08:323][412]LogModuleManager: Shutting down and abandoning module SlateReflector (120)
+[2023.05.05-18.24.08:323][412]LogModuleManager: Shutting down and abandoning module Slate (118)
+[2023.05.05-18.24.08:323][412]LogModuleManager: Shutting down and abandoning module SlateCore (116)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module MRMesh (114)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module Messaging (112)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (110)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module Networking (108)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module Core (106)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module ImageWrapper (102)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module InputCore (100)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module Settings (98)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (96)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (95)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module Chaos (92)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module GeometryCore (91)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (88)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (87)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module AVEncoder (86)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module D3D11RHI (82)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (80)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module ChunkDownloader (76)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (72)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2023.05.05-18.24.08:325][412]LogModuleManager: Shutting down and abandoning module HTTP (65)
+[2023.05.05-18.24.08:325][412]LogHttp: Warning: Cleaning up 0 outstanding Http requests.
+[2023.05.05-18.24.08:352][412]LogModuleManager: Shutting down and abandoning module SSL (64)
+[2023.05.05-18.24.08:352][412]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (60)
+[2023.05.05-18.24.08:352][412]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (58)
+[2023.05.05-18.24.08:352][412]LogModuleManager: Shutting down and abandoning module WmfMedia (56)
+[2023.05.05-18.24.08:353][412]LogModuleManager: Shutting down and abandoning module Media (55)
+[2023.05.05-18.24.08:353][412]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (52)
+[2023.05.05-18.24.08:353][412]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (50)
+[2023.05.05-18.24.08:353][412]LogModuleManager: Shutting down and abandoning module NiagaraShader (48)
+[2023.05.05-18.24.08:353][412]LogModuleManager: Shutting down and abandoning module Water (46)
+[2023.05.05-18.24.08:353][412]LogModuleManager: Shutting down and abandoning module ChaosCloth (44)
+[2023.05.05-18.24.08:353][412]LogModuleManager: Shutting down and abandoning module VariantManagerContent (42)
+[2023.05.05-18.24.08:353][412]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2023.05.05-18.24.08:353][412]LogModuleManager: Shutting down and abandoning module PixWinPlugin (38)
+[2023.05.05-18.24.08:353][412]LogModuleManager: Shutting down and abandoning module AISupportModule (36)
+[2023.05.05-18.24.08:353][412]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (34)
+[2023.05.05-18.24.08:353][412]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (32)
+[2023.05.05-18.24.08:353][412]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (30)
+[2023.05.05-18.24.08:353][412]LogModuleManager: Shutting down and abandoning module PlatformCrypto (28)
+[2023.05.05-18.24.08:353][412]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.05.05-18.24.08:353][412]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.05.05-18.24.08:353][412]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.05.05-18.24.08:354][412]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.05.05-18.24.08:354][412]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.05.05-18.24.08:354][412]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.05.05-18.24.08:354][412]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.05.05-18.24.08:354][412]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2023.05.05-18.24.08:354][412]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2023.05.05-18.24.08:354][412]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2023.05.05-18.24.08:354][412]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2023.05.05-18.24.08:354][412]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2023.05.05-18.24.08:354][412]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.05.05-18.24.08:368][412]LogD3D11RHI: Shutdown
+[2023.05.05-18.24.08:368][412]LogD3D11RHI: CleanupD3DDevice
+[2023.05.05-18.24.08:372][412]LogExit: Exiting.
+[2023.05.05-18.24.08:383][412]Log file closed, 05/05/23 11:24:08
